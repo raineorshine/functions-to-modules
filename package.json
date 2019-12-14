@@ -1,7 +1,7 @@
 {
   "name": "functions-to-modules",
   "description": "Move all exported functions from one module into separate modules.",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "author": {
     "name": "Raine Revere",
     "email": "raine@cybersemics.org",
