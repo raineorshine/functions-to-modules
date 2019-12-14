@@ -1,0 +1,18 @@
+{
+  "name": "functions-to-modules",
+  "description": "Move all exported functions from one module into separate modules.",
+  "version": "0.0.0",
+  "author": {
+    "name": "Raine Revere",
+    "email": "raine@cybersemics.org",
+    "url": "https://github.com/raineorshine"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "espree": "^6.1.2",
+    "mkdirp": "^0.5.1"
+  },
+  "devDependencies": {
+    "esprima": "^4.0.1"
+  }
+}
